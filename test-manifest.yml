@@ -1,0 +1,5 @@
+---
+applications:
+- name: test-articulate
+  routes:
+  - route: test-articulate.test-cf-prod.intranet.rws.nl

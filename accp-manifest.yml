@@ -1,0 +1,5 @@
+---
+applications:
+- name: accp-articulate
+  routes:
+  - route: accp-articulate.test-cf-prod.intranet.rws.nl
